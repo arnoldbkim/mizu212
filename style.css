@@ -29,3 +29,17 @@ video{
    float: right;
    text-align: right;
 }
+
+.container{
+    padding-bottom: 3rem;
+}
+
+.btn-primary{
+    
+    padding: 1rem 3rem !important;
+    font-size: x-large !important;
+    border-radius: 200px !important;
+    background-color: rgb(255, 35, 35) !important;
+    border-color: rgb(255, 35, 35) !important;
+}
+
