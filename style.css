@@ -1,11 +1,30 @@
+@media only screen and (min-width: 600px) {
+    .container{
+        max-width: 100% !important;
+    }
+  }
 
+.intro{
+    text-align: center;
+    padding-top: 2rem;
+    background-color: black;
+    color: white;
+   
+}
 
 .jumbotron {
     margin-bottom: 1rem;
     border: 0px;
     padding: 0px !important;
+    margin-bottom: 0px !important;
    }
 
+
+.container{
+    background-color: black;
+
+
+}
 
 video{
     max-width: 100%;
